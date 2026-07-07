@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1196185519832645905
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 378888032128163879, guid: a56739ef1f91de249a976cd27ab24566, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 378888032128163879, guid: a56739ef1f91de249a976cd27ab24566, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 378888032128163879, guid: a56739ef1f91de249a976cd27ab24566, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 378888032128163879, guid: a56739ef1f91de249a976cd27ab24566, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 378888032128163879, guid: a56739ef1f91de249a976cd27ab24566, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 378888032128163879, guid: a56739ef1f91de249a976cd27ab24566, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 378888032128163879, guid: a56739ef1f91de249a976cd27ab24566, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 378888032128163879, guid: a56739ef1f91de249a976cd27ab24566, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 378888032128163879, guid: a56739ef1f91de249a976cd27ab24566, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 378888032128163879, guid: a56739ef1f91de249a976cd27ab24566, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 378888032128163879, guid: a56739ef1f91de249a976cd27ab24566, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1011555117043104413, guid: a56739ef1f91de249a976cd27ab24566, type: 3}
+      propertyPath: m_Name
+      value: CreatureWorm01Water
+      objectReference: {fileID: 0}
+    - target: {fileID: 1515804823821917000, guid: a56739ef1f91de249a976cd27ab24566, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4ed67f782dd330f499149dd6b7c3c275, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a56739ef1f91de249a976cd27ab24566, type: 3}
+--- !u!1 &2202383777500658572 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1011555117043104413, guid: a56739ef1f91de249a976cd27ab24566, type: 3}
+  m_PrefabInstance: {fileID: 1196185519832645905}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &-7014042440257392615
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2202383777500658572}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 34f818010b0387b4cac6704fa1e3de24, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0

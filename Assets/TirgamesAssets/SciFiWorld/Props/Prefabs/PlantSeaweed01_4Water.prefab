@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8035988393955822319
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2323199767358299984, guid: 1fa9b077dd2b37d4cbfaac59037c295c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f12c82a7de37d6f4e8261db78bd23558, type: 2}
+    - target: {fileID: 2509542303975104785, guid: 1fa9b077dd2b37d4cbfaac59037c295c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 123
+      objectReference: {fileID: 0}
+    - target: {fileID: 3492125060388791359, guid: 1fa9b077dd2b37d4cbfaac59037c295c, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3492125060388791359, guid: 1fa9b077dd2b37d4cbfaac59037c295c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3492125060388791359, guid: 1fa9b077dd2b37d4cbfaac59037c295c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3492125060388791359, guid: 1fa9b077dd2b37d4cbfaac59037c295c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3492125060388791359, guid: 1fa9b077dd2b37d4cbfaac59037c295c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3492125060388791359, guid: 1fa9b077dd2b37d4cbfaac59037c295c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3492125060388791359, guid: 1fa9b077dd2b37d4cbfaac59037c295c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3492125060388791359, guid: 1fa9b077dd2b37d4cbfaac59037c295c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3492125060388791359, guid: 1fa9b077dd2b37d4cbfaac59037c295c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3492125060388791359, guid: 1fa9b077dd2b37d4cbfaac59037c295c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3492125060388791359, guid: 1fa9b077dd2b37d4cbfaac59037c295c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4268662103562714757, guid: 1fa9b077dd2b37d4cbfaac59037c295c, type: 3}
+      propertyPath: m_Name
+      value: PlantSeaweed01_4Water
+      objectReference: {fileID: 0}
+    - target: {fileID: 4268662103562714757, guid: 1fa9b077dd2b37d4cbfaac59037c295c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 123
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1fa9b077dd2b37d4cbfaac59037c295c, type: 3}
